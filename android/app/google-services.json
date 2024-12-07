@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "88485706063",
+    "project_id": "byteblocks-f98c1",
+    "storage_bucket": "byteblocks-f98c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88485706063:android:9049e49d5a097c5c356d3a",
+        "android_client_info": {
+          "package_name": "com.example.byteblocks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88485706063-f3hjvtb2d6u0o2gn2dletpq1c054ar6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.byteblocks",
+            "certificate_hash": "35925328689d83ef6110a42a30c054b10efcf6fa"
+          }
+        },
+        {
+          "client_id": "88485706063-kikhoh9e2cestcplpbvk1g54rs2laklf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGHTy-CVPW6mqIVtdcaPS7lUHZ9Tw52Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88485706063-kikhoh9e2cestcplpbvk1g54rs2laklf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88485706063-3p0n77uaqlkop9jk2k7c09i96uc4ulfs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.byteblocks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
